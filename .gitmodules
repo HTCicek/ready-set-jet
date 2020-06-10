@@ -1,0 +1,6 @@
+[submodule "ready-set-jet-backend"]
+	path = ready-set-jet-backend
+	url = ./ready-set-jet-backend/
+[submodule "ready-set-jet-frontend"]
+	path = ready-set-jet-frontend
+	url = ./ready-set-jet-frontend/
