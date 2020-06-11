@@ -16,7 +16,7 @@ Ready Set Jet is a responsive web app made to tailor a user's sleep schedule acc
 # all you need is the docker-compose file
 
 curl https://raw.githubusercontent.com/HTCicek/ready-set-jet/master/docker-compose.yml > docker-compose.yml
-docker-compose up --build
+docker-compose up
 
 # don't mind the connection messages from api_1:
 # # docker-compose.yml command for backend sleeps until postgres is accepting connections in order to migrate.
