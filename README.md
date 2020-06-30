@@ -4,6 +4,8 @@
 
 Find the docker images [here](https://hub.docker.com/repository/docker/htcicek/ready-set-jet), on dockerhub!
 
+Watch the demo on [vimeo](https://vimeo.com/391058350)!
+
 ## What is Ready Set Jet?
 
 Ready Set Jet is a responsive web app made to tailor a user's sleep schedule according to their flights.
